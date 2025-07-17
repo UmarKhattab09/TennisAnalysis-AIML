@@ -1,0 +1,4 @@
+detection/predict12/image.jpg
+/training/tennis-ball-detection-1/tennis-ball-detection-1
+/venv
+*.pt
